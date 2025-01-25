@@ -7,7 +7,7 @@ if __name__ == "__main__"
 import telebot
 
 # Replace 'YOUR_BOT_TOKEN' with your actual bot token
-bot = telebot.TeleBot('YOUR_BOT_TOKEN')
+bot = telebot.TeleBot('7464314334:AAFTLYZ2UJdIAfsjOuhNklcGfR934XbxsDA')
 
 # Dictionary of word-response pairs
 responses = {
